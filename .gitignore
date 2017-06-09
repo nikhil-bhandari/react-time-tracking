@@ -2,3 +2,5 @@ reports/
 tests_output/
 npm-debug.log.*
 .idea
+yarn.lock
+node_modules
